@@ -2,3 +2,4 @@ nltk
 re
 streamlit
 heapq
+network
