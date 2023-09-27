@@ -5,6 +5,7 @@ import heapq
 from nltk.cluster.util import cosine_distance
 import networkx as nx
 import numpy as np
+import scipy as sp
 nltk.download('punkt')
 ## article
 st.title("NTLK: Text Summarisation ⛳️")
